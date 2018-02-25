@@ -5,8 +5,7 @@ using System.Text;
 
 namespace ClassLibrary3
 {
-    public class Class1
+    class Class2
     {
-        cambios desde visual
     }
 }
