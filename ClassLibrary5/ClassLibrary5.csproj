@@ -40,6 +40,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Class1.cs" />
+    <Compile Include="Class2.cs" />
     <Compile Include="Class_branchB1.cs" />
     <Compile Include="Class_branchB2.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
