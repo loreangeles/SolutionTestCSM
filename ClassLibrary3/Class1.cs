@@ -8,5 +8,6 @@ namespace ClassLibrary3
     public class Class1
     {
         cambios desde visual
+            cambios 2
     }
 }
